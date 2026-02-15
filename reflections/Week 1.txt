@@ -1,0 +1,24 @@
+# End of Week 1 (2/14/2026)
+
+## Problems Completed
+
+1. Contains Duplicate
+2. Valid Anagram
+3. Best Time to Buy and Sell Stocks
+4. Valid Parentheses
+
+This week, I focused on refreshing the basics, such as hashing, sliding window, and stacks. Although I have done LeetCode before, I have been pretty inconsistent with it. So, I will be documenting what problems I do each week and reflecting on them to:  
+1. Review the material  
+2. Hold myself accountable
+
+## Problems I Ran Into
+
+1. Sometimes I find myself wanting to just look at the solution if I get stuck. However, it’s important to remember that I should focus on figuring out what I can do and recognizing where I get stuck.
+2. Although I am only doing one problem a day for now, I think that is better than doing none at all. We all have to start somewhere.
+3. Instead of recognizing patterns, I find myself trying to remember/recall the solution of the problem instead of walking through the problem step by step. I need to slow down and take time walking through each step instead of just diving in and trying to remember solutions.
+
+## Goals for Next Week
+
+1. Solve at least one medium problem
+2. Solve at least one problem each day
+3. Write another reflection on my progress
