@@ -1,5 +1,5 @@
-public class Solution
-    public String reverseString(char[] s) {
+public class Solution {
+    public void reverseString(char[] s) {
         int left = 0;
         int right = s.length - 1;
 
@@ -16,6 +16,7 @@ public class Solution
         }
 
     }
+}
 
-    // Algorithm: two pointer
-    // Intuition: since you want to meet in the middle, using the two pointer method helps
+// Algorithm: two pointer
+// Intuition: since you want to meet in the middle, using the two pointer method helps
