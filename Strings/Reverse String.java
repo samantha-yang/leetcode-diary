@@ -16,3 +16,6 @@ public class Solution
         }
 
     }
+
+    // Algorithm: two pointer
+    // Intuition: since you want to meet in the middle, using the two pointer method helps
