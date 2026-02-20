@@ -1,0 +1,20 @@
+# End of Week 2 (2/21/2026)
+
+## Problems Completed
+
+1. Reverse linked list
+2. Merge two sorted lists
+3. Invert binary tree
+4. Max depth binary tree
+5. Reverse string
+6. First occurrence index in string
+7. Count words with prefix
+
+This week, I focused on
+
+
+## Problems I Ran Into
+
+
+## Goals for Next Week
+

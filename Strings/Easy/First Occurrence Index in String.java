@@ -18,3 +18,6 @@ class Solution {
         return -1;
     }
 }
+
+// Be careful of off by one error in for loop
+// Make sure to draw out a picture
