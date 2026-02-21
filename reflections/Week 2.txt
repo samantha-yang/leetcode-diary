@@ -9,6 +9,7 @@
 5. Reverse string
 6. First occurrence index in string
 7. Count words with prefix
+8. Roman to integer
 
 This week, I focused on
 
