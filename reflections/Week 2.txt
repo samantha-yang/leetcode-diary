@@ -19,11 +19,26 @@
 --
 10. Longest common prefix
 
-This week, I focused on
+Sorry guys, this week's reflection is late since I was busy this weekend. However, I'm making sure I still write one.
 
+This week, I focused on easy problems to work on my fundamentals. I worked on linked lists, trees, and a lot of string manipulation problems. 
+1. Trying to recognize patterns in patterns
+2. Trying to expose myself to more types of patterns I might see
 
 ## Problems I Ran Into
+1. I find myself struggling to remember built in Java functions. Even though I know you can look it up, it can be timely and prohibited during OAs.
+2. I'm not letting myself struggle enough. I keep wanting to look at solutions quickly and say "oh yeah, I knew that". It's about problem solving, not memorizing solutions.
+3. Trying to bridge the gap between easy and medium problems. I find that I can either solve/mostly solve easy questions, but I keep immediately stuck on mediums. Not sure if I should work on more easy questions, or if I should drive straight into mediums.
 
+
+## Goals from Week 1
+
+1. Solve at least one medium problem ❌
+2. Solve at least one problem each day ✅
+3. Write another reflection on my progress ✅
 
 ## Goals for Next Week
 
+1. Solve at least one medium problem
+2. Attempt at least three medium problems
+3. Write another weekly reflection to document my journey
