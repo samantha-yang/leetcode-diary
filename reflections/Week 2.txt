@@ -3,13 +3,21 @@
 ## Problems Completed
 
 1. Reverse linked list
+--
 2. Merge two sorted lists
+--
 3. Invert binary tree
+--
 4. Max depth binary tree
 5. Reverse string
+--
 6. First occurrence index in string
 7. Count words with prefix
 8. Roman to integer
+--
+9. Rotate string
+--
+10. Longest common prefix
 
 This week, I focused on
 
