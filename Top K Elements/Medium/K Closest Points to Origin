@@ -1,6 +1,8 @@
 import java.util.*;
 class Solution {
     // Calculate the squared distance
+    // Note: Do not need the sqrt as it is the same ordering
+    // May need the sqrt if specifically asked for actual geometric distance
     public int squaredDis(int[] p) {
         return p[0] * p[0] + p[1] * p[1];
     }
