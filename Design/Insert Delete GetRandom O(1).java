@@ -15,7 +15,7 @@ class RandomizedSet {
         if (map.containsKey(val)) {
             return false;
         }
-        map.add(val, nums.size());
+        map.put(val, nums.size());
         nums.add(val);
         return true;
     }
@@ -40,7 +40,7 @@ class RandomizedSet {
     }
     
     public int getRandom() {
-        return nums.get(getNextInt(nums.size()));
+        return nums.get(rand.nextInt(nums.size()));
     }
 }
 
