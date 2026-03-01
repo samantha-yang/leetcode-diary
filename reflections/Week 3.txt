@@ -2,7 +2,18 @@
 
 ## Problems Completed
 
-1.
+1. 3Sum
+--
+2. Number of islands
+--
+3. Remove stars from string
+4. K closest points to origin
+--
+5. Insert delete getRandom O(1)
+--
+6. Design underground system
+--
+7. Max subarray
 
 # Problems I Ran Into
 
@@ -13,3 +24,7 @@
 3. Write another weekly reflection to document my journey
 
 # Goals For Next Week
+
+1.
+2.
+3. 
