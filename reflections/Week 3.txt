@@ -14,17 +14,26 @@
 6. Design underground system
 --
 7. Max subarray
+8. Binary search
+
+This week, I focused trying to try out and ease myself into solving medium problems. I spent a lot of the first two weeks solving easy problems, but I want to work on mediums.
+1. I focused on doing medium problems instead of easy ones. I want to challenge myself more and see "medium-type" patterns/problems.
+2. Pattern recognition. I tried to see if I could apply patterns from previous patterns to new problems.
+3. I also tried out design problems this week to get comfortable with OOP and refresh my skills.
 
 # Problems I Ran Into
+1. I found myself recognizing what patterns I should apply/data structures, but I wasn't able to code my ideas. I think I need to work on reviewing the problem the next day to make sure I really understand it.
+2. Again, I find myself always wanting to look at the solution instead of letting myself struggle long enough. I need to focus more on digesting hints instead of getting hasty.
+3. I can come up with the brute force solution but not the optimal solution. Not sure if this will just come with time/practice, or if there is a strategy/hint.
 
 # Goals From Week 2
 
-1. Solve at least one medium problem
-2. Attempt at least three medium problems
-3. Write another weekly reflection to document my journey
+1. Solve at least one medium problem ✅ (I was able to solve Insert Delete GetRandom on my own)
+2. Attempt at least three medium problems ✅ (I actually tried out on medium per day, except Sunday)
+3. Write another weekly reflection to document my journey ✅
 
 # Goals For Next Week
 
-1.
-2.
-3. 
+1. Solve two medium problems on my own
+2. Attempt one medium problem per day
+3. Try out a topic I haven't explored deeply yet (Tries, backtracking, DP, etc)
