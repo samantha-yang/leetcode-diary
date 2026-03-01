@@ -29,7 +29,7 @@ This week, I focused trying to try out and ease myself into solving medium probl
 # Goals From Week 2
 
 1. Solve at least one medium problem ✅ (I was able to solve Insert Delete GetRandom on my own)
-2. Attempt at least three medium problems ✅ (I actually tried out on medium per day, except Sunday)
+2. Attempt at least three medium problems ✅ (I actually tried out one medium per day, except Sunday)
 3. Write another weekly reflection to document my journey ✅
 
 # Goals For Next Week
