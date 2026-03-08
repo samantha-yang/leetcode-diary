@@ -1,0 +1,41 @@
+# End of Week 4 (3/7/2026)
+
+## Problems Completed
+
+1. Top K frequency elements
+--
+2. Longest substring without repeats
+3. Find min in rotated sorted array
+4. Climbing stairs
+--
+5. Container with most water
+--
+6. Fizz buzz
+--
+7. Meeting rooms
+--
+8. Group anagrams
+--
+9. Product of array except itself
+
+This week, I focused trying to solve only medium problems and recognizing patterns/problem solving.
+1. For example, I was able to recognize that container with most water is a two pointer problem. I was really proud of this.
+2. I tried to focus on writing psuedo code/ideas down before trying to look at the solution.
+3. After writing the solution, I focus on writing high-quality comments to make sure I understand the solution. I also cross check with online solutions and AI tools to make sure my comments are clear/correct.
+
+# Problems I Ran Into
+1. For a lot of medium problems, I can only really come up with the brute force method. I find it hard to come up with the optimized solution.
+2. I struggle to write clear comments to convey my ideas. The comments make sense to me, but they could be more direct and explicit in what I am trying to say.
+3. 
+
+# Goals From Week 3
+
+1. Solve two medium problems on my own ✅ (even though it was the brute force method!)
+2. Attempt one medium problem per day ❌ (only solved Fizz Buzz on Wed bc I got lazy)
+3. Try out a topic I haven't explored deeply yet (Tries, backtracking, DP, etc) ✅ (easy: climbing stairs)
+
+# Goals For Next Week
+
+1. Time myself to see how long I take solving each problem
+2. Try talking about my ideas out loud to simulate a mock interview (at least one problem)
+3. Do at least 3 problems on topics I am not as comfortable with (DP, graphs, heap, etc.)
