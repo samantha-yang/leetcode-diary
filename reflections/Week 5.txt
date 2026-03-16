@@ -1,0 +1,29 @@
+# End of Week 5 (3/14/2026)
+
+## Problems Completed
+
+1. Clone graph
+--
+2. Balanced binary tree
+3. Min stack
+--
+4. Combination sum
+--
+5. Insert interval
+
+This week, I focused trying to follow a structured approach to problems to solve instead of randomly picking problems to solve. Previously, I just chose random problems from NeetCode 75, but this week I focused on solving problems from Grind 75. My hope is that by following a structured approach, I can have exposure to all topics.
+1. I focused on the problems in week 5 of grind 75, helping me keep a structured pace and topics to cover.
+
+# Problems I Ran Into
+1. I lost motivation this week. I have been pretty consistent each week, but this week I have been less consistent with doing a problem everyday. I have been sick for this last week, but that is no excuse.
+
+# Goals From Week 3
+
+1. Time myself to see how long I take solving each problem ❌
+2. Try talking about my ideas out loud to simulate a mock interview (at least one problem) ❌
+3. Do at least 3 problems on topics I am not as comfortable with (DP, graphs, heap, etc.) ✅
+
+# Goals For Next Week
+
+1. Try to do one problem everyday
+2. Time myself doing at least one problem to get a good idea on how long a problem might take
