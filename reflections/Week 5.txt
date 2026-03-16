@@ -16,6 +16,7 @@ This week, I focused trying to follow a structured approach to problems to solve
 
 # Problems I Ran Into
 1. I lost motivation this week. I have been pretty consistent each week, but this week I have been less consistent with doing a problem everyday. I have been sick for this last week, but that is no excuse.
+2. I'm having trouble balancing my time doing LeetCode + dedicating time to make my website + side projects. I need to plan out a schedule on how much time I plan to dedicate each day.
 
 # Goals From Week 3
 
