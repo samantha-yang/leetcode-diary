@@ -1,0 +1,11 @@
+/*
+ * Problem:  (LC 7#)
+ * Pattern: 
+ * Technique: 
+ * Time: O() - 
+ * Space: O() - auxilary, O() - 
+ * 
+ * Key insight:
+ *
+ * Pitfall:
+ */
