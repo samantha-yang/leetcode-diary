@@ -1,5 +1,5 @@
 /*
- * Problem:  (LC 7#)
+ * Problem:  (LC )
  * Pattern: 
  * Technique: 
  * Time: O() - 
